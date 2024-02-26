@@ -1,0 +1,35 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Shogun",
+      "author": "James Clavell",
+      "genre": "Historical Fiction"
+    },
+    {
+      "id": 2,
+      "title": "Protogor",
+      "author": "Ivan Franko",
+      "genre": "Philosophical Satire"
+    },
+    {
+      "id": 3,
+      "title": "A History of Philosophy",
+      "author": "Frederick Copleston",
+      "genre": "Non-Fiction, Philosophy"
+    },
+    {
+      "id": 4,
+      "title": "The Black Obelisk",
+      "author": "Erich Maria Remarque",
+      "genre": "Historical Fiction"
+    },
+    {
+      "id": 5,
+      "title": "Bukvar",
+      "author": "Various authors",
+      "genre": "Educational"
+    }
+
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "Sophia Ignatenko",
+      "email": "sophia.ignatenko@gmail.com"
+    },
+    {
+      "id": 1,
+      "name": "Alexander Petrinenko",
+      "email": "alex.petrinenko@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Anna Melnykova",
+      "email": "anna.melnykova@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Maxim Danylenko",
+      "email": "max.danylenko@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Irina Hryhorivna",
+      "email": "irina.hryhorivna@gmail.com"
+    }
+  ]
+}

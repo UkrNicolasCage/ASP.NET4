@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WebApplicationn5/1.0.0": {
+        "runtime": {
+          "WebApplicationn5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApplicationn5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
